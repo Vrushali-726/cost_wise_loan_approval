@@ -1,4 +1,4 @@
-# Cost-Wise Loan Approval
+# Cost-Wise Loan Approval - Minor Project
 
 ## About the Project
 
